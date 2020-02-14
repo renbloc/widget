@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello world, we are renbloc lock up your daughters cause we are here to.... 
+          RENBLOC RULES
         </p>
         <a
           className="App-link"
