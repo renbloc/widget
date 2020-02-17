@@ -5,8 +5,8 @@ import { makeStyles } from '@material-ui/core/styles';
 const useStyles = makeStyles(theme => ({
   Header_div: {
     textAlign: 'center',
-    paddingTop: 50,
-    paddingBottom:100,
+    paddingTop: 25,
+    paddingBottom:50,
   },
   Header: {
     fontSize: 50,
